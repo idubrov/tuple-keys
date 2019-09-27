@@ -1,0 +1,13 @@
+[package]
+name = "tuple-keys"
+version = "0.1.0"
+authors = ["Ivan Dubrov <dubrov.ivan@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+
+[workspace]
+members = [
+    "tuple-regen"
+]

@@ -1,0 +1,11 @@
+[package]
+name = "tuple-regen"
+version = "0.1.0"
+authors = ["Ivan Dubrov <dubrov.ivan@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+proc-macro2 = "1.0.4"
+quote = "1.0.2"
+syn = "1.0.5"
+sourcegen-cli = "0.3.3"
